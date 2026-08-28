@@ -12,7 +12,10 @@
 - The basic unit of a language model is token.
 - For GPT-4, an average token is approximately ¾ the length of a word.
 - The set of all tokens a model can work with is the model’s vocabulary
-- 
+- Why do language models use token as their unit instead of word or character? 1) Compared to characters, tokens allow the model to break words into meaningful components 2)Because there are fewer unique tokens than unique words, this reduces the model’s vocabulary size, making the model more efficient 3) Tokens also help the model process unknown words. => Tokens balance having fewer units than words while retaining more meaning than individual
+characters.
+
+- (continue from p. 37)
 
 
 
