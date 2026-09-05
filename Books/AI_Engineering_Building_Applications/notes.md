@@ -35,7 +35,7 @@ expensive and slow to obtain. Self-supervision helps overcome this data labeling
 - you can think of embeddings as vectors that aim to capture the meanings of the original data. Multimodal embedding models like CLIP are the backbones of generative multimodal models.
 - Foundation models also mark the transition from task-specific models to general-purpose models.
 - Foundation models, thanks to their scale and the way they are trained, are capable of a wide range of tasks.
-- continue (p.42)
+- continue (p.49)
 
 
 
