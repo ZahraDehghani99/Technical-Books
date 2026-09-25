@@ -35,7 +35,14 @@ expensive and slow to obtain. Self-supervision helps overcome this data labeling
 - you can think of embeddings as vectors that aim to capture the meanings of the original data. Multimodal embedding models like CLIP are the backbones of generative multimodal models.
 - Foundation models also mark the transition from task-specific models to general-purpose models.
 - Foundation models, thanks to their scale and the way they are trained, are capable of a wide range of tasks.
-- continue (p.49)
+- Adapting an existing powerful model to your task is generally a lot easier than building a model for your task from scratch.
+- Foundation models make it cheaper to develop AI applications and reduce time to market.
+- AI engineering refers to the process of building applications on top of foundation models
+- Three factors that, together, create ideal conditions for the rapid growth of AI engineering as a discipline:
+    - Factor 1: General-purpose AI capabilities: Foundation models are powerful not just because they can do existing tasks better. They are also powerful because they can do more tasks.
+    - Factor 2: Increased AI investments
+    - Factor 3: Low entrance barrier to building AI applications
+- continue (p.56)
 
 
 
